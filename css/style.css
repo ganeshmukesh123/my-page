@@ -1,5 +1,15 @@
-.bg-img{
+.bg-img-home{
   background-image: url("../img/nature.jpg");
   background-repeat: no-repeat;
   background-size: 100% 100%;
+}
+
+.bg-img-blog{
+  background-image: url("../img/blog.jpg");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.pd-8-30{
+	padding: 8px 30px;
 }
